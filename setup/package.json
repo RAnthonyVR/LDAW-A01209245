@@ -1,0 +1,14 @@
+{
+  "name": "setup",
+  "version": "1.0.0",
+  "description": "setup del framework",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Ricardo Antonio Vazquez R",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,4 @@
+npm init
+node app.js
+npm start
+nom install --save express
